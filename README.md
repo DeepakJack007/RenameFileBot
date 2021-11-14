@@ -33,5 +33,5 @@
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [](https://telegram.dog/) For []()
+* [](https://telegram.dog/) For [](https://github.com/shukurenaibotcreate/telegraph-uploader)
 * [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
