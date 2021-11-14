@@ -1,5 +1,6 @@
 {
-  "name": "TG Rename Bot",
+  "name": "Rename File Bot",
+  "logo": "https://telegra.ph/file/16a52ec2f672709582c05.jpg"
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,9 +9,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/rename1robot",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/FileRenameBot",
+  "success_url": "https://t.me/shukurenai007",
+  "website": "https://github.com/shukurenaibotcreate",
+  "repository": "https://github.com/shukurenaibotcreate/RenameFileBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
