@@ -1,4 +1,4 @@
-# - File Rename Bot
+# Rename File Bot
 
 <p align="center">
   <a href="https://github.com/shukurenaibotcreate/RenameFileBot/stargazers">
@@ -33,5 +33,5 @@
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [](https://telegram.dog/) For [](https://github.com/shukurenaibotcreate/telegraph-uploader)
+* [](https://telegram.dog/shukurenai007) For [telegraph-uploader](https://github.com/shukurenaibotcreate/telegraph-uploader)
 * [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
